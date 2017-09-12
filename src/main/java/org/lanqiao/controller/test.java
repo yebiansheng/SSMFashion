@@ -1,5 +1,5 @@
 package org.lanqiao.controller;
 
 public class test {
-	public void os(){}
+	public void osd(){}
 }
